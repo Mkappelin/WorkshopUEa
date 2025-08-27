@@ -1,0 +1,18 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Workshop.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\marco\OneDrive\Dokument\Unreal Projects\Workshop\Intermediate\Build\Win64\x64\WorkshopEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h.obj"
+"C:\Users\marco\OneDrive\Dokument\Unreal Projects\Workshop\Intermediate\Build\Win64\x64\UnrealEditor\Development\Workshop\MyCharacter.gen.cpp.obj"
+"C:\Users\marco\OneDrive\Dokument\Unreal Projects\Workshop\Intermediate\Build\Win64\x64\UnrealEditor\Development\Workshop\PlayerCharacter.gen.cpp.obj"
+"C:\Users\marco\OneDrive\Dokument\Unreal Projects\Workshop\Intermediate\Build\Win64\x64\UnrealEditor\Development\Workshop\Workshop.init.gen.cpp.obj"
+"C:\Users\marco\OneDrive\Dokument\Unreal Projects\Workshop\Intermediate\Build\Win64\x64\UnrealEditor\Development\Workshop\MyCharacter.cpp.obj"
+"C:\Users\marco\OneDrive\Dokument\Unreal Projects\Workshop\Intermediate\Build\Win64\x64\UnrealEditor\Development\Workshop\Workshop.cpp.obj"
+"C:\Users\marco\OneDrive\Dokument\Unreal Projects\Workshop\Intermediate\Build\Win64\x64\UnrealEditor\Development\Workshop\PlayerCharacter.cpp.obj"
+"C:\Users\marco\OneDrive\Dokument\Unreal Projects\Workshop\Intermediate\Build\Win64\x64\UnrealEditor\Development\Workshop\PerModuleInline.gen.cpp.obj"
+"C:\Users\marco\OneDrive\Dokument\Unreal Projects\Workshop\Intermediate\Build\Win64\x64\UnrealEditor\Development\Workshop\Default.rc2.res"
+/OUT:"C:\Users\marco\OneDrive\Dokument\Unreal Projects\Workshop\Intermediate\Build\Win64\x64\UnrealEditor\Development\Workshop\UnrealEditor-Workshop.lib"

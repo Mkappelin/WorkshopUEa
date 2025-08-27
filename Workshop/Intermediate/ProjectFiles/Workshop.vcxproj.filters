@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Workshop.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Workshop.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\WorkshopEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Workshop">
+      <UniqueIdentifier>{ABE90437-7188-3EE8-838B-2C3D2C335BE5}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Workshop\MyCharacter.cpp">
+      <Filter>Source\Workshop</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Workshop\MyCharacter.h">
+      <Filter>Source\Workshop</Filter>
+    </ClCompile>
+    <None Include="..\..\Source\Workshop\Workshop.Build.cs">
+      <Filter>Source\Workshop</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Workshop\Workshop.cpp">
+      <Filter>Source\Workshop</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Workshop\Workshop.h">
+      <Filter>Source\Workshop</Filter>
+    </ClCompile>
+    <Filter Include="Source\Workshop\Private">
+      <UniqueIdentifier>{7B0A0DC1-F461-30DB-9D4C-729BCB289A36}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Workshop\Private\PlayerCharacter.cpp">
+      <Filter>Source\Workshop\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\Workshop\Public">
+      <UniqueIdentifier>{F090BDF9-4408-3CD6-BC1E-F41D5BC9BC7F}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Workshop\Public\PlayerCharacter.h">
+      <Filter>Source\Workshop\Public</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
