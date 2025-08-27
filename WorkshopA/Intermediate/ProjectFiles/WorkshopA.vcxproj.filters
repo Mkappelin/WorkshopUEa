@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\WorkshopA.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\WorkshopA.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\WorkshopAEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\WorkshopA">
+      <UniqueIdentifier>{217AB0E3-1575-3B74-B62F-C645619BD239}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\WorkshopA\WorkshopA.Build.cs">
+      <Filter>Source\WorkshopA</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\WorkshopA\WorkshopA.cpp">
+      <Filter>Source\WorkshopA</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\WorkshopA\WorkshopA.h">
+      <Filter>Source\WorkshopA</Filter>
+    </ClCompile>
+    <Filter Include="Source\WorkshopA\Private">
+      <UniqueIdentifier>{4D9D0635-15F6-3ABE-AF0F-7D23D93F6E74}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\WorkshopA\Private\PlayerCharacterA.cpp">
+      <Filter>Source\WorkshopA\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\WorkshopA\Public">
+      <UniqueIdentifier>{B1D7ABC6-0883-34B7-8574-AE3A1C2C9757}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\WorkshopA\Public\PlayerCharacterA.h">
+      <Filter>Source\WorkshopA\Public</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

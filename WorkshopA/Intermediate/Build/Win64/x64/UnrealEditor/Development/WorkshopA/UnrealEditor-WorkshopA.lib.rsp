@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-WorkshopA.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\marco\OneDrive\Dokument\Unreal Projects\WorkshopA\Intermediate\Build\Win64\x64\WorkshopAEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h.obj"
+"C:\Users\marco\OneDrive\Dokument\Unreal Projects\WorkshopA\Intermediate\Build\Win64\x64\UnrealEditor\Development\WorkshopA\PlayerCharacterA.gen.cpp.obj"
+"C:\Users\marco\OneDrive\Dokument\Unreal Projects\WorkshopA\Intermediate\Build\Win64\x64\UnrealEditor\Development\WorkshopA\WorkshopA.init.gen.cpp.obj"
+"C:\Users\marco\OneDrive\Dokument\Unreal Projects\WorkshopA\Intermediate\Build\Win64\x64\UnrealEditor\Development\WorkshopA\WorkshopA.cpp.obj"
+"C:\Users\marco\OneDrive\Dokument\Unreal Projects\WorkshopA\Intermediate\Build\Win64\x64\UnrealEditor\Development\WorkshopA\PlayerCharacterA.cpp.obj"
+"C:\Users\marco\OneDrive\Dokument\Unreal Projects\WorkshopA\Intermediate\Build\Win64\x64\UnrealEditor\Development\WorkshopA\PerModuleInline.gen.cpp.obj"
+"C:\Users\marco\OneDrive\Dokument\Unreal Projects\WorkshopA\Intermediate\Build\Win64\x64\UnrealEditor\Development\WorkshopA\Default.rc2.res"
+/OUT:"C:\Users\marco\OneDrive\Dokument\Unreal Projects\WorkshopA\Intermediate\Build\Win64\x64\UnrealEditor\Development\WorkshopA\UnrealEditor-WorkshopA.lib"
