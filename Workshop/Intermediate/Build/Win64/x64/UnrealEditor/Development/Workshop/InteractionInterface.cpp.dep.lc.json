@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\marco\\onedrive\\dokument\\unreal projects\\workshop\\source\\workshop\\private\\interactioninterface.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\marco\\onedrive\\dokument\\unreal projects\\workshop\\intermediate\\build\\win64\\x64\\workshopeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "c:\\users\\marco\\onedrive\\dokument\\unreal projects\\workshop\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\workshop\\definitions.workshop.h",
+            "c:\\users\\marco\\onedrive\\dokument\\unreal projects\\workshop\\source\\workshop\\public\\interactioninterface.h",
+            "c:\\users\\marco\\onedrive\\dokument\\unreal projects\\workshop\\intermediate\\build\\win64\\unrealeditor\\inc\\workshop\\uht\\interactioninterface.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

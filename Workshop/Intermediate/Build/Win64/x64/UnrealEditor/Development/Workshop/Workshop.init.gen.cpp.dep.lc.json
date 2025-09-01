@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\marco\\onedrive\\dokument\\unreal projects\\workshop\\intermediate\\build\\win64\\unrealeditor\\inc\\workshop\\uht\\workshop.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\marco\\onedrive\\dokument\\unreal projects\\workshop\\intermediate\\build\\win64\\x64\\workshopeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "c:\\users\\marco\\onedrive\\dokument\\unreal projects\\workshop\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\workshop\\definitions.workshop.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -48,12 +48,30 @@
     <Filter Include="Source\Workshop\Private">
       <UniqueIdentifier>{7B0A0DC1-F461-30DB-9D4C-729BCB289A36}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\Workshop\Private\InteractionActor.cpp">
+      <Filter>Source\Workshop\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Workshop\Private\InteractionInterface.cpp">
+      <Filter>Source\Workshop\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Workshop\Private\MyActor.cpp">
+      <Filter>Source\Workshop\Private</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\Source\Workshop\Private\PlayerCharacter.cpp">
       <Filter>Source\Workshop\Private</Filter>
     </ClCompile>
     <Filter Include="Source\Workshop\Public">
       <UniqueIdentifier>{F090BDF9-4408-3CD6-BC1E-F41D5BC9BC7F}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\Workshop\Public\InteractionActor.h">
+      <Filter>Source\Workshop\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Workshop\Public\InteractionInterface.h">
+      <Filter>Source\Workshop\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Workshop\Public\MyActor.h">
+      <Filter>Source\Workshop\Public</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\Source\Workshop\Public\PlayerCharacter.h">
       <Filter>Source\Workshop\Public</Filter>
     </ClCompile>
